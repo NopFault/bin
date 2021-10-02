@@ -3,7 +3,7 @@
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 
-WATCH_DIRS=(/home/$USER/Test)
+WATCH_DIRS=(/home/$USER/Test /home/$USER/Downloads)
 CURRENT_DAY=$(date +%F)
 
 
