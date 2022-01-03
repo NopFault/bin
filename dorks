@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+# pipe to search for e.x.:
+#   -> grep -iF joomla
+curl --silent https://gist.githubusercontent.com/NopFault/732db4f686ba11d87a96ca793c6a4006/raw/6c6fde8d65327a7e567332827e14b913353b42de/google-dorks.txt 2>&1
