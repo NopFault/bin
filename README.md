@@ -1,2 +1,3 @@
-# bin
-Personal `/home/$USER/bin/` scripts
+# homedir bin files
+
+Personal `/home/$USER/bin/` scripts.
