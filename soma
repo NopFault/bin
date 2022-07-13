@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 echo "Select a station to listen to:";
 select station in "Doomed" \

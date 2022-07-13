@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # pipe to search for e.x.:
 #   -> grep -iF joomla

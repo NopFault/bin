@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker run --rm -it -v /Users/nopfault/reverse:/workdir nopfault/reverse
